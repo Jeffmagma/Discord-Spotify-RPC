@@ -48,7 +48,7 @@ Great! Rich presence is enabled. Now, go to the assets section and upload an ima
 *Note: Discord-Spotify-RPC only supports large images right now!*
 ![none](https://mikecao.me/i/1a8448.png)
 
-You can see your uploaded assets here, in case you need to edit them sometime in the future. You can have up to 150 of them!
+You can see your uploaded assets here, in case you need to edit them sometime in the future. You can have up to 150 of them!  
 ![none](https://mikecao.me/i/731626.png)
 
 Next, go to the config file and use the values from the application to fill it in.
